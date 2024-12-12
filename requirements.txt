@@ -1,0 +1,4 @@
+streamLit
+Langchain
+Langchain_groq
+Langchain_community
